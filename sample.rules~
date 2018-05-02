@@ -1,0 +1,11 @@
+
+rule match : Packer
+{
+    strings: 
+        $a = "abcdefghigklmnopqr"
+
+    condition:
+        $a
+        
+}
+

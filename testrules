@@ -1,0 +1,9 @@
+rule ExampleRule
+{
+    strings:
+        $test1 = "text here"
+        $test2 = { E2 34 A1 C8 23 FB }
+
+    condition:
+        $test1 or $test2
+}

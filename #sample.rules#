@@ -1,0 +1,11 @@
+
+rule UPX : Packer
+{
+    strings: 
+        $a = "test"
+
+    condition:
+        $a
+        
+}
+
