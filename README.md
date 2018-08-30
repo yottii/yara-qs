@@ -5,16 +5,23 @@ seccamp2017で作ったyaraのソースコードです。
 解説に関しては以下の通りです！
 基本的なyaraの使い方も下にかいてあります！
 
-when I have attended security-camp 2017,I have made to use Quick-Search yara program.it was adopt Qucik-Search algorithm.
+when I have attended security-camp 2017,I have made to use Quick-Search yara program.it was adopt Qucik-Search algorithm.<br>
 
-Computational Complexity
-To be keyword length:n, string length:s
+Computational Complexity<br>
+To be keyword length:n, string length:s<br>
 
-Native way :best O(n), bad(n*k)
-Automaton　way : best and bad O(n)
-Quick Search way: best O(n/k), bad O(n*k)
+Native way :best O(n), bad(n*k)<br>
+Automaton　way : best and bad O(n)<br>
+Quick Search way: best O(n/k), bad O(n*k)<br>
 
+test3.c is quick-search algorithm<br>
+this github is very disoder....lol <br>
 
+I will be arrenement butifully ...someday<br>
+so if you have occurred the question, please give me the e-mail<br>
+mail: ykusama@sfc.keio.ac.jp<br>
+
+thank you for all
 
 
 
